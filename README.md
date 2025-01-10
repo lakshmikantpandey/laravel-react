@@ -117,5 +117,7 @@ Used axios to make API requests to the backend.
 Used localStorage for user authentication.
 
 serve both application : 
+
 php artisan serve
-yarn run dev
+
+yarn run dev/ yarn start
