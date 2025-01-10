@@ -115,3 +115,7 @@ Implemented the login page with the necessary form and logic to handle authentic
 Used axios to make API requests to the backend.
 
 Used localStorage for user authentication.
+
+serve both application : 
+php artisan serve
+yarn run dev
